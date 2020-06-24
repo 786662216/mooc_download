@@ -10,4 +10,4 @@ https://mooc1-2.chaoxing.com/course/206199750.html
 第二个文件：
 其他的网课就随便下载了，不用改代码，注意有些课程是需要登录甚至要把课选上才能下载的，可以用自己的账号登上去把课选上，然后加个cookie，就可以下载了
 
-有兴趣的可以来看看具体原理：http://sheshuaiyan.top/?p=606
+有兴趣的可以来看看具体原理：http://sheshuaiyan.top/?p=525
